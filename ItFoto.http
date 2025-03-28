@@ -1,0 +1,6 @@
+@ItFoto_HostAddress = http://localhost:5100/swagger/index.html
+
+GET {{ItFoto_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
